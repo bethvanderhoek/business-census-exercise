@@ -4,7 +4,7 @@ Unfortunately, without access to the API, it is difficult to interpret the data.
 
 I will create more visualizations once I recieve the API and have more access to searching the dataset.
 
-![Bar graph of owners by race](cleaner-race-owner.png "Owners by Race") 
+![Bar graph of owners by race](cleaner_race_owner.png "Owners by Race") 
 
 Here is a bar chart that shows the breakdown of owners by different races.
 
